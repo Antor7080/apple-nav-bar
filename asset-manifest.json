@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/apple-nav-bar/static/css/main.3186511a.css",
-    "main.js": "/apple-nav-bar/static/js/main.0f407348.js",
+    "main.js": "/apple-nav-bar/static/js/main.a1b3633d.js",
     "static/js/787.610a39dc.chunk.js": "/apple-nav-bar/static/js/787.610a39dc.chunk.js",
     "static/media/Logo-top.png": "/apple-nav-bar/static/media/Logo-top.56a1316ab22a7fc83df2.png",
     "index.html": "/apple-nav-bar/index.html",
@@ -9,11 +9,11 @@
     "static/media/close-icon.svg": "/apple-nav-bar/static/media/close-icon.f97e4991b06999c4d8bc.svg",
     "static/media/search-icon.svg": "/apple-nav-bar/static/media/search-icon.86bb28287a534677133f09802cd82937.svg",
     "main.3186511a.css.map": "/apple-nav-bar/static/css/main.3186511a.css.map",
-    "main.0f407348.js.map": "/apple-nav-bar/static/js/main.0f407348.js.map",
+    "main.a1b3633d.js.map": "/apple-nav-bar/static/js/main.a1b3633d.js.map",
     "787.610a39dc.chunk.js.map": "/apple-nav-bar/static/js/787.610a39dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3186511a.css",
-    "static/js/main.0f407348.js"
+    "static/js/main.a1b3633d.js"
   ]
 }
